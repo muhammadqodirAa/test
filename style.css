@@ -9,3 +9,8 @@
     margin: auto;
     border: 5px solid black;
 }
+
+.navbar {
+    height: 100px;
+    background-color: red;
+}
